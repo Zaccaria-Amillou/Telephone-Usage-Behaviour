@@ -53,7 +53,7 @@ This dataset downloaded from Kaggle, provides a comprehensive analysis of mobile
 
 1. Clone the repository:
 ```
-   git clone https://github.com/Zaccaria-Amillou/ml_zoomcamp_2024/tree/main/mtp.git
+   git clone https://github.com/Zaccaria-Amillou/Telephone-Usage-Behaviour
    cd your_project
 ```
 2. Create a virtual environment and activate it:
